@@ -11,7 +11,7 @@ Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all suppo
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navaneethrkrishna/Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navaneethrkrishna/Filter-Bot-V1)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
